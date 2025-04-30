@@ -1,0 +1,78 @@
+.Skillbody{
+    background-color:#000a19 ;
+}
+/* .Skillimg{
+transition: transform 0.2s;
+}
+.Skillimg:hover{
+    width: 300px;
+    height: 500px;
+    transform: scale(1.1);
+} */
+.Skillimg{
+    padding-left: 50px !important;
+    padding-top: 50px !important;
+    padding-bottom: 10px !important;
+}
+.SkillHeading{
+    font-size: 35px;
+  
+}
+.skillBodyitem{
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+    padding-top: 0px !important;
+    padding-bottom: 30px !important;
+}
+.SkillimgPaper{
+    padding-left: 25px !important;
+    padding-top: 50px !important;
+}
+.skill{
+    transition: transform 0.5s;
+}
+.skill:hover{
+    transform: scale(1.1);
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+.SkillSetNameGrid{
+    padding-top: 0px !important;
+}
+.skillSetName{
+    padding-left: 50px !important;
+   
+}
+.marginleftZero{
+    margin-left: 0 !important;
+}
+.list{
+    margin-left: 60px !important;
+    max-width: 220px !important;
+}
+.SkillimgPaper{
+    padding-left: 70px !important;
+}
+}
+
+    @media screen and (min-width: 768px) and (max-width: 1700px) {
+        .Skills{
+            width: auto !important;
+        }
+        .skillSetName{
+            padding-left: 20px !important;
+            padding-top: 50px !important;
+        }
+        
+    }
+        @media screen and (min-width: 1024px) and (max-width: 1700px) {
+            .SkillimgPaper{
+                padding-left: 50px !important;
+            }
+            .SkillSetNameGrid{
+                padding-top: 30px !important;
+               
+            }
+            .skillSetName{
+                padding-left: 20px !important;
+                padding-top: 50px !important;
+            }}

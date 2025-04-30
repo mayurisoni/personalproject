@@ -1,0 +1,87 @@
+.aboutbody{
+    background-color:red ;
+}
+.img{
+    width: 300px;
+    height: 340px;
+}
+.Heading{
+    font-size: 35px;
+    margin-left: 10%;
+       
+}
+@media screen and (min-width: 320px) and (max-width: 374px) {
+    
+    .boxSize {
+      width: 260px;
+      height: 240px;
+    }
+    .imageSize {
+      height: 200px;
+      width: 250px;
+    }
+  }
+@media screen and (min-width: 375px) and (max-width: 424px) {
+    .boxSize {
+        width: 300px;
+        height: 240px;
+      }
+    .imageSize {
+      height: 300px;
+      width: 300px;
+    }
+  }
+  @media screen and (min-width: 425px) and (max-width: 767px) {
+    .boxSize {
+        width: 360px;
+        height: 240px;
+      }
+    .imageSize {
+      height: 300px;
+      width: 330px;
+    }
+  }
+  @media screen and (min-width: 768px) and (max-width: 1023px) {
+    .boxSize {
+      width: 400px;
+      height: 210px;
+    }
+    .imageSize {
+      height: 200px;
+      width: 200px;
+    }
+  }
+@media screen and (min-width: 1024px) and (max-width: 1200px)  {
+    .boxSize{
+        height: 210px;
+        width: 600px;
+  
+    }
+    .imageSize{
+        height: 300px;
+        width: 300px;
+    }
+}
+@media screen and (min-width: 1201px) and (max-width: 1439px)  {
+    .boxSize{
+        height: 210px;
+        width: 800px;
+  
+    }
+    .imageSize{
+        height: 300px;
+        width: 300px;
+    }
+}
+@media screen and (min-width: 1440px) and (max-width: 1700px)  {
+    .boxSize{
+        height: 210px;
+        width: 890px;
+  
+    }
+    .imageSize{
+        height: 330px;
+        width: 350px;
+    }
+}
+

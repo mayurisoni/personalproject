@@ -1,0 +1,127 @@
+.contactusbody{
+    background-color:#000b1b ;
+}
+.form input{
+    height: "40px";
+}
+.footer{
+    padding: 20px;
+    background-color:#00091d ;
+    color: white;
+    text-align: center;
+}
+
+@media screen and (min-width: 320px) and (max-width:374px) {
+    .contactTextPart
+{
+        padding: 10%;
+    }
+    .contactformPart{
+        padding:0%;
+    }
+      .work{
+       margin-bottom: 50px;
+      }
+      .body{
+        padding-bottom: 0 !important ;
+      }
+      .halfinput{
+        height: 50px;
+         width: 95%; 
+      }
+      #Name{
+        margin-bottom: 20px;
+      }
+      .contactemail{
+        font-size: 17px !important;
+    }
+  }
+
+@media screen and (min-width: 375px) and (max-width: 767px) {
+    .contactTextPart
+{
+        padding: 10%;
+    }
+    .contactformPart{
+        padding:0%;
+    }
+        .work{
+            margin-bottom: 50px;
+           }
+           .body{
+            padding-bottom: 0 !important ;
+          }
+          .halfinput{
+            height: 50px;
+             width: 95%; 
+          }
+          #Name{
+            margin-bottom: 20px;
+          }
+  }
+  @media screen and (min-width: 768px) and (max-width:1023px) {
+    .contactTextPart
+    {
+            padding: 6%;
+        }
+    .work{
+        margin-bottom: 50px;
+        height: 200px;
+        width: 200px
+       }
+       .worklist{
+        padding-top: 50px !important;
+       }
+       .halfinput{
+        height: 50px;
+         width: 95%; 
+      }
+      #Name{
+        margin-bottom: 20px;
+      }
+  }
+  @media screen and (min-width: 1024px) and (max-width:1200px) {
+    .contactTextPart
+    {
+            padding: 6%;
+        }
+    .work{
+        margin-bottom: 50px;
+        height: 200px;
+        width: 200px
+       }
+       .worklist{
+        padding-top: 50px !important;
+       }
+       .halfinput{
+        height: 50px;
+         width: 95%; 
+      }
+      #Name{
+        margin-bottom: 0px !important;
+      }
+  }
+  @media screen and (min-width: 1201px) and (max-width:1700px) {
+    .contactTextPart
+    {
+            padding: 6%;
+        }
+    .contactformPart{
+        padding:5%;
+    }
+    .work{
+        margin-bottom: 50px;
+        height: 300px;
+        width: 300px
+       }
+       .worklist{
+        padding-top: 50px !important;
+       }
+       .halfinput{
+        height: 50px;
+         width: 90%; 
+      }
+      #Name{
+        margin-bottom: 0px !important;
+      }
+  }

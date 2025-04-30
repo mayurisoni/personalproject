@@ -1,0 +1,20 @@
+.body{
+    background-image:url('../../../../Images/20230215_141808.jpg') ;}
+    
+    .MuiBox-root css-130f8nx{
+        display: flex;
+        justify-content: space-between;
+    }
+    .navitems{
+        padding: 8px 30px; 
+    }
+    .navButton :hover{
+        color:"#b8580d"
+    }
+    
+    @media (min-width: 768px) and (max-width: 1440px) {
+        .navButton {
+          display: flex;
+          flex-direction: row;
+        }
+      }
