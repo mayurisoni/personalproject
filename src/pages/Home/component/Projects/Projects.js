@@ -77,7 +77,7 @@ const AboutMe = () => {
                   <p>
                   Developed an e-commerce website using Commerce.js and React.js to showcase products and allow users to add items to their cart and complete purchases.
                   </p>
-                  <a href="http://mcommerce.lovestoblog.com/?i=1" target="_blank">
+                  <a href="https://mcommercee.netlify.app/" target="_blank">
                     <OpenInBrowserIcon />
                   </a>
                 </Grid>
