@@ -63,7 +63,7 @@ const AboutMe = () => {
                   <p>
                   My React portfolio project is a website that I designed and developed to showcase my skills, experiences, and projects to potential employers or clients.
                   </p>
-                  <a href="http://www.mayuri-soni.great-site.net/" target="_blank">
+                  <a href="https://mayurisoni.netlify.app/" target="_blank">
                     <OpenInBrowserIcon />
                   </a>
                 </Grid>
